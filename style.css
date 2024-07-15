@@ -1,0 +1,22 @@
+.container-fluid{
+  background-color: antiquewhite; 
+  border: 2px solid black; 
+}
+body{
+    background-color: antiquewhite;
+}
+.display-6{
+    margin-bottom: 20%;
+    margin-top: 20%;
+}
+.real{
+    margin-top: 90%;
+    width: 610px;
+}
+.img{
+    margin-left: 20%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 98%;
+    width: 80%;
+}
